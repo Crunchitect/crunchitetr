@@ -42,13 +42,29 @@ const countdown = ref(false);
         </div>
         <p>That is the inteded piece order and bag, but mostly the portion in purple can be done freestyle.</p>
         <Fumen fumen="v115@bgzwCeAtBezwBeBtBezwBeAtCeywwhRpBtAeQ4xwg0?whRpglBtR4wwg0whA8AeI8AeH8JeAgH" />
-        <h2>TSD Quad Route</h2>
+        <h2>TSD Quad Continuation</h2>
         <p>Here is a rough setup for a TSD Quad setup, the stack is mostly freestyle, but here is an example from the video.</p>
         <Fumen fumen="v115@Egg0Ieg0Heh0wwCeQ4DeAtxwT4whAeBtwwR4RpQ4wh?AeBtRpwhRpglwhAeBtRpwhilwhAeAtywwhh0whA8AeI8AeH?8JeAgH"></Fumen>
-        <h2>Bongcloud Route</h2>
-        <p>soon lol</p>
+        <p>This can be extended into a 2-wide stack with an L and J.</p>
+        
+        <h2><a href="https://harddrop.com/wiki/Bongcloud">Bongcloud</a> Continuation</h2>
+        <Fumen fumen="v115@BgA8FeQ4AewhA8FeR4whA8FewwQ4whA8BeAtAewwAe?xwxhAeBtzwR4whAeBtRpwhR4glwhAeBtRpwhilwhAeAtyww?hh0whA8AeI8AeH8JeAgH"></Fumen>
+        <h2>Bag 3 & 4 (Bongcloud)</h2>
+        <div class="solves">
+            <div class="solve">
+                <Fumen fumen="v115@BgwhFeQ4AexhFeR4xhFewwQ4xhBeAtAewwAexwxhAe?BtzwR4whAeAtA8RpA8R4glwhAeB8RpA8ilwhAeI8AeI8AeH?8JeAgH"/>
+                <p>Early TSI on 4th bag</p>
+            </div>
+            <div class="solve">
+                <Fumen fumen="v115@BgA8FeQ4AewhA8FeR4whA8FewwQ4whA8BeAtAewwAe?xwxhAeBtzwR4whAeBtRpwhR4glwhAeBtRpwhilwhAeAtyww?hh0whA8AeI8AeH8JeAgH"/>
+                <p>Bag 2-4 overview</p>
+            </div>
+        </div>
+        <p>Most continuations of bongcloud can be JO or ZLJ. (LO or SJL mostly). For bags #5-7</p>
+        <p>These can extend to a TSD, TST or Imperial Cross</p>
         <h2>Sources</h2>
         <p><a href="https://ch.tetr.io/u/the_tetr_man">the_tetr_man's</a> replay on cheese-twist opener <a href="https://drive.google.com/drive/folders/1mtjhT32Y1_jzq2QXEqkdhUQYwKFcLklK?usp=sharing">here.</a></p>
+        <p>TuneWiFi's <a href="https://harddrop.com/wiki/Bongcloud">Bongcloud</a> opener</p>
     </div>
 </template>
 

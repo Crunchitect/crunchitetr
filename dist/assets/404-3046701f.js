@@ -1,0 +1,1 @@
+import{_ as t,a as o,c as n,F as s,b as e}from"./index-620301b5.js";const a={},c=e("h1",null,"404",-1),r=e("p",null,"I'm too lazy to design this page :konacry:",-1);function _(l,d){return o(),n(s,null,[c,r],64)}const f=t(a,[["render",_]]);export{f as default};
