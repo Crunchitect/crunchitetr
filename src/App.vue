@@ -4,6 +4,7 @@ import { RouterView } from 'vue-router';
 </script>
 
 <template>
+  <RouterLink to="/"><i class="fa-solid fa-home home"></i></RouterLink>
   <RouterView />
 </template>
 
@@ -18,5 +19,11 @@ import { RouterView } from 'vue-router';
     .fade-enter-active,
     .fade-leave-active {
       transition: all .3s ease;
+    }
+
+    .home {
+      float: left;
+      opacity: 30%;
+      margin-bottom: 2rem;
     }
 </style>
