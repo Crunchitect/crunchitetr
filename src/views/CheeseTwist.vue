@@ -69,7 +69,7 @@ const countdown = ref(false);
 </template>
 
 <style scoped>
-.solves {
+    .solves {
         display: grid;
         gap: 2vw;
         grid-template-columns: repeat(auto-fill, 250px);

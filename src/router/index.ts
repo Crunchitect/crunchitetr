@@ -24,6 +24,15 @@ const router = createRouter({
             component: () => import('@/views/CheeseTwist.vue')
         },
         {
+            path: '/pills-guide',
+            name: "Pill's Tetris Guide",
+            component: () => import('@/views/Pill.vue')
+        },
+        {
+            path: '/hes-him',
+            redirect: '/pills-guide'
+        },
+        {
             path: '/:catchAll(.*)',
             name: "Not Found",
             component: () => import('@/views/404.vue')
